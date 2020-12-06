@@ -1,4 +1,3 @@
-[![shield to Agar.io Private Servers guild](https://discordapp.com/api/guilds/407210435721560065/embed.png?style=shield)](https://discord.gg/XcKgShT)
 
 # OgarII
 
@@ -11,12 +10,6 @@ Your friendly agar.io private server recreation.
 - It has a minimal memory footprint, and strictly uses uWebSockets for networking.
 
 - The code uses JSDoc to specify types. Understanding what the code does is down to your understanding of English.
-
-## Notes
-
-- Ask all your questions over on the [Agar.io Private Servers](https://discord.gg/66X2ESb) Discord guild.
-
-- Before connecting from agar.io you will need to do `core.disableIntegrityChecks(true)` in the console.
 
 ## Running
 
